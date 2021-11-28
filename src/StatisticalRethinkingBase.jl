@@ -1,0 +1,3 @@
+module StatisticalRethinkingBase
+
+end # module
